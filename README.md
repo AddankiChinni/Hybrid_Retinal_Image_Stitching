@@ -1,6 +1,6 @@
 # Hybrid_Retinal_Image_Stitching:
 • Built a CNN–Transformer hybrid (TranSegNet) for multi-retinal image stitching, achieving PSNR
-≈30dB,SSIM≈1andpixelerror <10pxinFIRES&Acategoriesusing advanced preprocessing
+≈30dB,SSIM≈1 and pixelerror <10pxinFIRE S&A categories using advanced preprocessing
 and homography-based feature alignment.
 
 
